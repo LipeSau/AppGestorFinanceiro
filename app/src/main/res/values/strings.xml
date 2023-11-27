@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Gestor Financeiro</string>
+    <string name="usuario_cadastrado">Usuário cadastrado!</string>
+    <string name="erro_ao_cadastrar_usuario">Erro ao cadastrar usuário!</string>
+    <string name="as_senhas_nao_sao_iguais">As senhas não são iguais!</string>
+    <string name="por_favor_preencha_todas_as_informaces">Por favor, preencha todas as informações!</string>
+    <string name="erro_no_login">Erro no login!</string>
+    <string-array name="tipo_registro_spinner">
+        <item>Despesa</item>
+        <item>Receita</item>
+    </string-array>
+</resources>
